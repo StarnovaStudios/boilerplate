@@ -1,0 +1,5 @@
+name: ${name}
+version: '${version}'
+main: ${group}.${name}.Boilerplate
+api-version: '${apiVersion}'
+website: https://starnova.dev
